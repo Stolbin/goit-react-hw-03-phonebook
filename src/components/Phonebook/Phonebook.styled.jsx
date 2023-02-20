@@ -1,6 +1,6 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
-export const Formtable = styled.Form`
+export const Form = styled.form`
   margin-top: 20px;
   display: flex;
   flex-direction: column;
@@ -9,11 +9,11 @@ export const Formtable = styled.Form`
   gap: 15px;
 `;
 export const Label = styled.label`
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
   font-weight: 600;
 `;
-export const InputName = styled.Field`
+export const InputName = styled.input`
   width: 79%;
   border: none;
   box-shadow: 1px 2px 3px #000000;
