@@ -18,6 +18,7 @@ export const ListItem = styled.li`
   justify-content: flex-end;
   gap: 25px;
   background: #fff;
+  box-shadow: 3px 3px 5px #696969;
 `;
 export const BoxContactsList = styled.div`
   display: flex;
