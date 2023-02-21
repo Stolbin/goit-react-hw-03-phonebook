@@ -6,5 +6,6 @@ export const TitleSection = styled.h2`
   font-size: 38px;
   font-weight: 600;
   color: black;
+  text-shadow: 2px 2px 2px #A9A9A9;
   }
 `;

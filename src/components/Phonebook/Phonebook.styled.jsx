@@ -12,6 +12,7 @@ export const Label = styled.label`
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
   font-weight: 600;
+  text-shadow: 1px 1px 2px #a9a9a9;
 `;
 export const InputName = styled.input`
   width: 79%;
