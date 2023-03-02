@@ -37,6 +37,8 @@ export const Button = styled.button`
   height: 30px;
   font-size: 16px;
   font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #fff;
   text-align: center;
   border: none;
   border-radius: 3px;
@@ -50,5 +52,4 @@ export const Button = styled.button`
     box-shadow: 3px 3px 5px #6d6b6b;
     transition: scale 650ms ease, background 650ms ease, color 650ms ease,
       box-shadow 650ms ease;
-  }
 `;
